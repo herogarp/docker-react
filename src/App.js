@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Fuck What
+          Fuck What Gith React Shit
         </p>
         <a
           className="App-link"
